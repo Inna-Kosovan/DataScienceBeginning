@@ -25,4 +25,3 @@
 ## Скачать репозиторий
 ```console
     git clone https://github.com/chernyshov-dev/DataScienceBeginning.git
-    ```
