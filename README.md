@@ -2,9 +2,11 @@
     <h1>Data Science and Machine Learning with Python 3</h1>
     <img src="https://media.giphy.com/media/3o6MbrACMlFCny8zmw/giphy.gif" alt="">
     <p></p>
-    <img alt="GitHub issue/pull request detail" src="https://img.shields.io/github/issues/detail/state/chernyshov-dev/DataScienceBeginning/1">
-    <img alt="MIT License" src="http://img.shields.io/:license-MIT-blue.svg">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/chernyshov-dev/DataScienceBeginning?color=green">
+    <a href="#">
+        <img alt="GitHub issue/pull request detail" src="https://img.shields.io/github/issues/detail/state/chernyshov-dev/DataScienceBeginning/1">
+        <img alt="MIT License" src="http://img.shields.io/:license-MIT-blue.svg">
+        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/chernyshov-dev/DataScienceBeginning?color=green">
+    </a>
     <p></p>
     <a href="#">
         <img src="https://forthebadge.com/images/badges/made-with-python.svg">
