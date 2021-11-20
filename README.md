@@ -36,6 +36,7 @@
 ## Скачать репозиторий
 ```console
 git clone https://github.com/chernyshov-dev/DataScienceBeginning.git
+```
 
 ## Лицензия
 [MIT License](https://github.com/chernyshov-dev/DataScienceBeginning/blob/master/LICENSE)
